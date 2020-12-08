@@ -1,0 +1,20 @@
+{
+  "name": "users_directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server",
+    "json:server": "json-server --watch data.json"
+  },
+  "author": "George Ijidola",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0",
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.6"
+  }
+}

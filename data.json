@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Bolu Ijidola"
+    },
+    {
+      "id": "2",
+      "name": "Keith Wilson",
+      "email": "kieth@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Tom Jones",
+      "email": "tom@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "George",
+      "email": "some",
+      "age": 34,
+      "id": "AA1rGdi"
+    },
+    {
+      "name": "George Seyi",
+      "email": "some",
+      "age": 34,
+      "id": "cAk_vnT"
+    },
+    {
+      "name": "George Bolu",
+      "email": "some",
+      "age": 34,
+      "id": "f8tvsi9"
+    }
+  ]
+}
